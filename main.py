@@ -1,2 +1,2 @@
 print("el apaga rivas")
-print("dino")
+print("el dinoguayo")
